@@ -1,0 +1,5 @@
+Take prompt from user as text
+Break up text by words
+Find 100 images per word that match words
+Special sauce image algo to combine best match images
+Return and display to user
